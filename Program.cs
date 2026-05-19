@@ -10,7 +10,7 @@ Console.WriteLine("valor de a:"+a);
 Console.WriteLine("valor de b:"+b);
 
 int num, invertido=0;
-string? entrada;
+string entrada;
 Console.WriteLine("Ingrese un numero:");
 entrada=Console.ReadLine();
 
